@@ -1,2 +1,6 @@
 #!/bin/bash
-School
+<<<<<<< HEAD
+The school is open!
+=======
+The school is open
+>>>>>>> 47f886887201487e6f2fbe8a6fef9ed6424085fd
